@@ -17,9 +17,7 @@ This project implements a machine learning pipeline to detect cancer based on pa
 ## 🚀 Features
 
 - Data preprocessing and cleaning  
-- Exploratory Data Analysis (EDA) with visualizations  
 - Training and evaluation of machine learning models  
-- Performance comparison across different classifiers  
 - Insights into cancer detection accuracy  
 
 ---
@@ -53,19 +51,10 @@ This project implements a machine learning pipeline to detect cancer based on pa
 
 ---
 
-## 📈 Results
-
-- Achieved high accuracy in classifying cancer cases.  
-- Compared multiple models (e.g., Logistic Regression, Random Forest, SVM, etc.).  
-- Visualized feature importance and decision boundaries.  
-
----
-
 ## 🛠️ Technologies Used
 
 - **Python**  
 - **Pandas & NumPy** – data manipulation  
-- **Matplotlib & Seaborn** – visualization  
 - **Scikit-learn** – machine learning models  
 
 ---
@@ -77,13 +66,3 @@ This project implements a machine learning pipeline to detect cancer based on pa
 - Deployment via Flask/Django or Streamlit  
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests.  
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
