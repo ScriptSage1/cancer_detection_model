@@ -34,8 +34,8 @@ This project implements a machine learning pipeline to detect cancer based on pa
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Scriptage1/cancer_detection_model.git
+   cd cancer_detection_model
    ```
 
 2. Install dependencies (preferably in a virtual environment):  
