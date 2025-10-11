@@ -4,7 +4,7 @@ This project implements a machine learning pipeline to detect cancer based on pa
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── CancerDetectionModel.ipynb   # Jupyter Notebook with full workflow
@@ -14,7 +14,7 @@ This project implements a machine learning pipeline to detect cancer based on pa
 
 ---
 
-## 🚀 Features
+## Features
 
 - Data preprocessing and cleaning  
 - Training and evaluation of machine learning models  
@@ -22,7 +22,7 @@ This project implements a machine learning pipeline to detect cancer based on pa
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **File:** `Cancer_Data.csv`  
 - **Description:** Contains patient diagnostic measurements used for cancer classification.  
@@ -30,7 +30,7 @@ This project implements a machine learning pipeline to detect cancer based on pa
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. Clone this repository:  
    ```bash
@@ -51,7 +51,7 @@ This project implements a machine learning pipeline to detect cancer based on pa
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**  
 - **Pandas & NumPy** – data manipulation  
@@ -59,7 +59,7 @@ This project implements a machine learning pipeline to detect cancer based on pa
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Hyperparameter tuning for better performance  
 - Deep learning model integration (TensorFlow / PyTorch)  
